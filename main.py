@@ -1,9 +1,8 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 #
-import os, sys, time, math
+import os, sys
 import random
-import csv
 import uuid
 
 import tkinter as tk
